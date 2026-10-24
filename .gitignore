@@ -1,0 +1,17 @@
+# Ambiente virtual
+venv/
+.venv/
+env/
+.vscode/
+
+# Ficheiros de dados brutos e pastas pesadas
+*.csv
+
+# Ficheiros gerados
+*.png
+*.jpg
+output.png
+
+# Ficheiros temporários do Python e Jupyter
+__pycache__/
+.ipynb_checkpoints/
